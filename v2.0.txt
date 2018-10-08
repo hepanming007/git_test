@@ -1,2 +1,0 @@
-git reset file
-2222

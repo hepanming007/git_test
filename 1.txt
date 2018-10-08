@@ -1,6 +1,9 @@
 6242516441
+<<<<<<< HEAD
 git rebase 测试
 冲突 
 冲突
+ 
+=======
 bug add 2018-09-19 14:39
-bug
+>>>>>>> parent of 58c3430... Merge branch 'bug'
